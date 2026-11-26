@@ -26,7 +26,7 @@ Wiki page: [M462C](../../../../PAGES/M462C.md)
 - **Words (OCR):** 10 in 9 lines: WAAD-BECK SYSTEMS LTO · WBS EO ic3 · 3cabcouh cuIPO · 333 · Gc 73J2 · M4gzC /M5G2C · STEREO EQUALIZER MODULE · Uani · Aque
 - **Title block:** (29, 388)–(284, 425) mm: WAAD-BECK SYSTEMS LTO · WBS EO ic3 · 3cabcouh cuIPO · 333 · Gc 73J2
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p1 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p1%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p1 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -36,7 +36,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Circles and arcs:** 16 circles, 0 arcs; largest r 1.8 @ (33.1, 282.8), r 1.8 @ (186.9, 256.9), r 1.8 @ (177.9, 243.0), r 1.8 @ (128.6, 290.6)
 - **Words (OCR):** 64 in 48 lines: OQAD AECR · atatrhr · intrcouC/u · STEAEU · FouiLIZER hoduli · "L62C/Msezc · ancillery 0rorc · Mgac4552C Bueen quai · "adula · deiloned · Inlegrate · Jacto 3res
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p2 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p2%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p2 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -47,7 +47,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Closed boxes:** 1
 - **Words (OCR):** 229 in 116 lines: WARD-BEC · YST eM LTD · TEC HN ICAL DATA · M4 2C TEIl EO EQ UALlZEn MODULE · Un ity · Fre qu en · Re sp nse · fr · 20 · 10 20 H7 · equ" ll ze rn · le lIn th
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p3 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p3%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p3 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -57,7 +57,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 2.3 @ (138.3, 355.6), r 1.8 @ (142.7, 306.2)
 - **Words (OCR):** 30 in 18 lines: WAFlD-BECI< BYSTEMS LTD. · TECHr IlCAL DATA · 62C STER EO EQUA · ZER MODUL · Di me io · "lit, 178 mm · wi · .00 · ;!lh · eep · (41 · H:'S
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p4 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p4%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p4 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -68,7 +68,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Words (OCR):** 108 in 76 lines: WARD · BECK BYBTEME · 046?C STEREO oualiZEn HODUC · Sta {quallzer Eidande · LaGnc · Drortesing · Mcouies · Gerso ppnicalcns. · Simnuttanenue enuaitannn Admenig · rinne · chinnn aipnale · equazer
 - **Title block:** (7, 25)–(271, 423) mm: WARD · BECK BYBTEME · 046?C STEREO oualiZEn HODUC · Sta {quallzer Eidande · LaGnc · Drortesing · Mcouies · Gerso ppnicalcns. · Simnuttanenue enuaitannn Admenig · chinnn aipnale · equazer · 0ivides · a
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p5 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p5%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p5 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -79,7 +79,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Dots (junctions):** 3
 - **Words (OCR):** 92 in 61 lines: WAAD · ECK Oyotomg · CAERATIC UL ZscRi · stereo ECIliZER ADDULE · 6zl · Aau LM · Futuuulast · frequrncy · Conirol · coTncr · shclvina · cenicr Jn#qurct
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p6 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p6%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p6 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -90,7 +90,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Dots (junctions):** 1
 - **Words (OCR):** 142 in 80 lines: WAFl D-B CI< SYSTE MS · LTD · OPERA IONAL OESCR IP ION · M46 2C STE REO EOUAL IZER MODUL · HI GH FREQU ENCY CU T/BOOST · RJ · ;/lp r-op rl" te scc · ter ln es · moun · 1·1;9h · or · N!qu.....c
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p7 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p7%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p7 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -101,7 +101,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Dots (junctions):** 5
 - **Words (OCR):** 115 in 77 lines: IVAAC HECIS 3YBTEME · ciacuIT dEscp · M-GZC STEREO EQUALIZER NODULE · circule ceteriblian yuuta · Channel , · ptrimin · chanei Gccutr ndecnter · Antinr manner; · npui · moduit · righi chennei · nout
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p8 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p8%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p8 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -113,7 +113,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Dots (junctions):** 4
 - **Words (OCR):** 399 in 168 lines: IRCU IT OESCr'llP ION · M462C TEREO QUAL IZ ER MOOULE · The oU lpu · om · fl lt · Is fed b"ck In to he mi in · amp le · hro · CS wh ere it · Is · dde · or eve u-ee tee lrom Ih millin
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p9 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p9%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p9 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -124,7 +124,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Closed boxes:** 1
 - **Words (OCR):** 261 in 113 lines: ARO · CK YSTE MS · LT · IRCU IT DESCR IP TI ON · M462C STEREO EOU..... IZER MODULE · Th · channel outpu · r'<!m · wit ch SWI..... co nec ts to the · SAI4 _109A one weu ou tpu · mp ie · The
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p10 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p10%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p10 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -135,7 +135,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Closed boxes:** 230; named: In 12- -o<E 1--1- 12- 1--1-; 12-; -o<E; 1--1-; 12-; 1--1-
 - **Words (OCR):** 45 in 20 lines: ECK YB TEM LT · FnEClUEUCY RESPONSE CHAFIACTER ST CS · 46 2C STEREO EOUALI ZER '·'OOULE · In · 12- · -o<E · OB · 1--1- · 12- · 1--1- · -15 · 2(tJ(l 4l1.
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p11 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p11%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p11 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -146,7 +146,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Dots (junctions):** 2
 - **Words (OCR):** 35 in 17 lines: YBT EMS LT · FR EQUEIlCY RESPOtISE CHARAC TER 1ST · CS · M'62C STEREO EOUAl. ZEn MODULE · -ts · 2Oi, · ,1Ott · ~tlO FREOUENCY SEC T1011 · eoost/ cut · dB. · FREOUEtl CY · 400 Hz 10
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p12 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p12%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p12 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -158,7 +158,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Dots (junctions):** 1
 - **Words (OCR):** 38 in 21 lines: WAR · BECK VBTE · LTC · FREQUEtj CY RESPOUSE CHARACT ER 1ST · CS · I>1462C STEREO EOUAL ER MOOULE · "'NI\ · H2 · Al · lOU · ca · OW FREOUENCY SECT ION
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p13 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p13%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p13 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -170,7 +170,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Dots (junctions):** 1
 - **Words (OCR):** 206 in 125 lines: MA62C STEREO EQUAL IZ ER · MOOULE · DESCR PT ION · M'G · PART · p~<;I IO" · 1,1 10 · Kelnel · ca · uF 10 · ca · 33 pI"
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p14 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p14%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p14 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -181,7 +181,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Dots (junctions):** 3
 - **Words (OCR):** 202 in 130 lines: WAR · CK · 1'EMS · MODUL · 46 · STERE · EOUALI · P....RT · DESCn TI ON · FO · MFr. P"lll · IIf" OE
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p15 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p15%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p15 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -192,7 +192,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Dots (junctions):** 1
 - **Words (OCR):** 18 in 12 lines: WA~D·BECI< SYSTEMS · LTD. · M46 2C STEREO EQUALIZER MODUL · ps · BS · 3569 · PN3645 · TIP29B · tp · TI P30B · ht · TN2102
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p16 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p16%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p16 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -203,7 +203,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Closed boxes:** 1; named: YSTEMS
 - **Words (OCR):** 78 in 59 lines: WAR · BECK YSTEMS LTO · M462C STE REO EOUAL IZER MODUL · DESCRIPTION · 06 · Tr lln slslor · TI140 36 · PN3569 · 08 · PN36 45 · Po ten ti ome ter · 5K
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p17 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p17%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p17 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -212,7 +212,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Outlines:** line 332 rings, 2,956 straight (5,858 mm) / 728 curved (1,164 mm); text 250 rings, 2,066 straight (2,425 mm) / 575 curved (937 mm)
 - **Words (OCR):** 55 in 41 lines: Fl ·lle CK VeTE M8 LTD · "'''62(; STEREO QUALl2ER · ~'ODUL · OESCR PT ION · J,!F · ART · NUM8E · R36 · Res Is tor · Ph: ll · R35 · RJ8
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p18 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p18%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p18 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -222,7 +222,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Closed boxes:** 2
 - **Words (OCR):** 62 in 51 lines: FlO · CK SYSTEMS LTC · M462C STEREO EOUAL IZER MODULE · DESCRIPTION · R69 · Res is tor 1/4'" 51 · Ph ilIps · R7<> · R77 · Rn · ISk · R13
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p19 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p19%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p19 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p19%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -232,7 +232,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (126.0, 229.5)
 - **Words (OCR):** 91 in 62 lines: WAFlD ·II ECK SYSTEMS LTD · M462C STEREO EQUAL IZER MODULE · PART · DESCR PT IO · MFO PART UUMBER · RI · Ru $lo · low · ese · Ph~,1IP · IDS · lO6
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p20 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p20%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p20 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p20%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -244,7 +244,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Dots (junctions):** 1
 - **Words (OCR):** 89 in 51 lines: WAR · l!!CK SVS Tl!! MS · LTO · M46 2C STE REO QUALI ZE MODULE · DESCRI · ON · ut · SI~,ne tlcs · ua · ua · U5 · us
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p21 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p21%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p21 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p21%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p21 (traced).dxf`).
 
 ### Page 22
 
@@ -255,7 +255,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Dots (junctions):** 2
 - **Words (OCR):** 59 in 51 lines: WAAD AECK By8t005 · OCa · PARIS · M4gzc_SteREo EquALIZER mouulg · 4iscelCaNcQUS Co"DONents · ue |dh · Nu"2e · Bluck) · (Green/"hlte| · _ies0 · (Alncki · LSAAL
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p22 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p22%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p22 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p22 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p22%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p22 (traced).dxf`).
 
 ### Page 23
 
@@ -266,7 +266,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Closed boxes:** 1
 - **Words (OCR):** 38 in 30 lines: atatems · LOAAD · PARTS List · MSer Gnind uum A Hc · cdhtrOL · 440be · BuTTCY · descRinTiOH · PAKI LUXUEH · uMee · 031-7335 · (aad/Whlto)
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p23 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p23%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p23 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p23 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p23%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p23 (traced).dxf`).
 
 ### Page 24
 
@@ -277,7 +277,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Closed boxes:** 22; named: to
 - **Words (OCR):** 45 in 20 lines: ARO ·SECK SYSTEMS LT · CONNECT OfI · 't'OUT · /IoI462C STE REO EOUALI ZER MODULE · Le fl Chennel · In ut · Righ Chenne · In ui · to · eft Ch nn · Ou to · RIgh Chann..,
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p24 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p24%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p24 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p24 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p24%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p24 (traced).dxf`).
 
 ### Page 25
 
@@ -288,7 +288,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Closed boxes:** 18
 - **Words (OCR):** 13 in 9 lines: lot · SAI4_ 1098 · UN IV ERSAL · AMPL IFIE · SU8ASSEM8LY · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p25 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p25%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p25 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p25 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p25%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p25 (traced).dxf`).
 
 ### Page 26
 
@@ -301,7 +301,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Words (OCR):** 30 in 24 lines: 1MlS · CD · It" · 15 · 15 · 30 · kH, · Mf · 0"0' · 03 · Lf · l5
 - **Title block:** (238, 45)–(329, 66) mm: ps · [\NBS) WARD-BECK SYSTEMS · BS
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p26 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p26%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p26 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p26 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p26%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p26 (traced).dxf`).
 
 ### Page 27
 
@@ -310,7 +310,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Outlines:** line 361 rings, 5,072 straight (8,261 mm) / 1,017 curved (1,298 mm); text 81 rings, 604 straight (776 mm) / 111 curved (152 mm)
 - **Words (OCR):** 11 in 11 lines: L£fT · rl · III'IJT · CUT · II · BOOST · RIGHT · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p27 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p27%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p27 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p27 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p27%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p27 (traced).dxf`).
 
 ### Page 28
 
@@ -324,7 +324,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Title block:** (249, 40)–(337, 62) mm: BS SYSTEMS · [\/VB=:) WARD-BECK
 - **Wiring (first pass):** 30 connected wire groups from 241 runs; labelled ends: 62 mm → IHSEIlT; 24 mm → [\/VB=:); 15 mm → [\/VB=:); 14 mm → IHSEIlT; 6 mm → [\/VB=:)
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p28 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p28%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p28 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p28 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p28%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p28 (traced).dxf`).
 
 ### Page 29
 
@@ -335,7 +335,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Closed boxes:** 12
 - **Words (OCR):** 13 in 12 lines: an,....,. · .mT · AU. · M.L~ · /llLL · .-u..fHl~QII · c=r'a.=:t=:l · CM,~ OM · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p29 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p29%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p29 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p29 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p29%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p29 (traced).dxf`).
 
 ### Page 30
 
@@ -349,7 +349,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Words (OCR):** 16 in 11 lines: ~,~,L~~-n: · 011 · ps · (VVSs) WARD-BECK · BS SYSTEMB · M462C · STEREO EQUALIZER MODULE · tp · ht SCHEMATIC · 462-02-004 · ISS.1
 - **Wiring (first pass):** 48 connected wire groups from 691 runs; labelled ends: 393 mm → ~,~,L~~-n:; 167 mm → ~,~,L~~-n:; 116 mm → ~,~,L~~-n:; 116 mm → ~,~,L~~-n:; 98 mm → ~,~,L~~-n:
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p30 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p30%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p30 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p30 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p30%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p30 (traced).dxf`).
 
 ### Page 31
 
@@ -362,7 +362,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Words (OCR):** 30 in 17 lines: It'!IIELf · Ill. · 4Cf-cHT-AA · OF · Tl£ FlJU.OVIH; CSIPAC.ITtItS ARE 51. · 22CIOPF. 33OCIPF. 47«6'F RHO OlSl..F. · j:L1. · ps · [vvasJ WARD-BECK SYSTEMS · BS · M462C · STEREO EQUALIZER MODULE
 - **Title block:** (239, 44)–(333, 66) mm: ps · [vvasJ WARD-BECK SYSTEMS · BS
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p31 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p31%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p31 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p31 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p31%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p31 (traced).dxf`).
 
 ### Page 32
 
@@ -372,7 +372,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Words (OCR):** 16 in 10 lines: WARD-BECK SYSTEMS LTD. · SECTION" · SA14-109A UNIVERSAL AMPLIFIER ASSEMBLY · ps · BS · ssu · Oc tobe · 1985 · tp · ht
 - **Title block:** (5, 398)–(117, 421) mm: WARD-BECK SYSTEMS LTD.
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p32 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p32%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p32 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p32 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p32%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p32 (traced).dxf`).
 
 ### Page 33
 
@@ -384,7 +384,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Words (OCR):** 186 in 88 lines: WARD ·BECK VBTI!!!MB LTD · TEClHl CAL DATA · SA ~_I09 · UN IVERS AL AMPL IF IER ASSEMOL · sem~ · In pu · Gai · SA · I09 · ba anc"d · dB · I09A
 - **Title block:** (2, 399)–(67, 422) mm: WARD ·BECK VBTI!!!MB LTD
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p33 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p33%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p33 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p33 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p33%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p33 (traced).dxf`).
 
 ### Page 34
 
@@ -396,7 +396,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Dots (junctions):** 1
 - **Words (OCR):** 131 in 48 lines: WARO·SECK SYSTEMS · LTO · GENERAL · SA14- 109 UNI VER SAL AMPLI FIE ASSEM BL · The SA I4 _109 Amp lifi ers · sed · tern at com ponen to · rIous · was ser ies of audi · con so · mod es · It "ooun
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p34 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p34%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p34 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p34 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p34%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p34 (traced).dxf`).
 
 ### Page 35
 
@@ -406,7 +406,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.6 @ (32.6, 151.5)
 - **Words (OCR):** 292 in 143 lines: WA~D -BeC · V8T I!MS · RCU IT DESCRIP ION · SAI I09 UNIVER SAL AMPLIFI ER ASSEMBL · ...ls · mp ll fler · Is · wo sec tion · Wh ic · orm ll · re · con fl
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p35 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p35%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p35 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p35 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p35%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p35 (traced).dxf`).
 
 ### Page 36
 
@@ -417,7 +417,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Words (OCR):** 132 in 63 lines: WA~D -BECK SYSTEMS LTD · IRCU IT DESCR IP TIO · SA1 109 UNI VERSA · MP FI ER ASSEM!!hr · ll · 01 · er · en Sen"", trenslstor · whi · cont rol · out pu · c8
 - **Title block:** (29, 397)–(111, 421) mm: WA~D -BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p36 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p36%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p36 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p36 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p36%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p36 (traced).dxf`).
 
 ### Page 37
 
@@ -426,7 +426,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Outlines:** line 202 rings, 2,270 straight (5,195 mm) / 514 curved (828 mm); text 806 rings, 6,113 straight (7,057 mm) / 1,851 curved (3,024 mm)
 - **Words (OCR):** 160 in 93 lines: WA~ · ECI< YSTE · TD · PARTS IST · 14- 109 UN IVERSAL AMPL IER ASSEM BLY · PART · OESCR IP TI ON · FG · MFG PART · NUMBER · Kerne · T3900 336MOI OA
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p37 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p37%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p37 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p37 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p37%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p37 (traced).dxf`).
 
 ### Page 38
 
@@ -436,7 +436,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 2.3 @ (93.1, 326.4), r 1.8 @ (83.9, 36.2)
 - **Words (OCR):** 18 in 9 lines: CK YSTEMS LTD · ARTS · IST · 5,1,1 109 UN VE RSAL AM PLIF · ASSEM BL · ca · BS · tp · ht
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p38 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p38%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p38 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p38 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p38%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p38 (traced).dxf`).
 
 ### Page 39
 
@@ -447,7 +447,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Closed boxes:** 1; named: YSTEMS
 - **Words (OCR):** 66 in 40 lines: WAAo · YSTEMS LTO. · PARTS LIST · SA14- I09 UNI VERSAL AMPL · IER ASSEM BL · PART · DESCRI TIO · CO · PART NUMBER · slor · Na ion · PN 3569
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p39 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p39%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p39 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p39 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p39%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p39 (traced).dxf`).
 
 ### Page 40
 
@@ -458,7 +458,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Dots (junctions):** 2
 - **Words (OCR):** 89 in 45 lines: WAFeO· l!I Il!!CI< YSTEMS · LT · PARTS LIS · SA ~-I09 UNIVERSAL AMPL IF IEH AS5E,.lOL · SA · 09A · Al · as per 5Alll l09 xcep · ted belo..... · t.1F PAi · NUMll · PAR
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p40 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p40%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p40 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p40 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p40%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p40 (traced).dxf`).
 
 ### Page 41
 
@@ -468,7 +468,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Closed boxes:** 1
 - **Words (OCR):** 35 in 33 lines: +21V · 3.)/10 · ell · !IV · NE5S34H · no< · 1'12 · 22Q · IU1 · 571(' · J'U · 10/ 35
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p41 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p41%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p41 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p41 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p41%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p41 (traced).dxf`).
 
 ### Page 42
 
@@ -482,7 +482,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Title block:** (242, 44)–(334, 65) mm: ps · (\NBS) WARD-BECK SYSTEMS · BS
 - **Wiring (first pass):** 28 connected wire groups from 278 runs; labelled ends: 88 mm → P2; 46 mm → RJI; 46 mm → 620, ;vr; 23 mm → (\NBS); 16 mm → (\NBS)
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p42 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p42%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p42 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p42 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p42%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p42 (traced).dxf`).
 
 ### Page 43
 
@@ -495,7 +495,7 @@ Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer 
 - **Words (OCR):** 18 in 13 lines: -fBI'" · -R17 · DP · (\NBS) WARD-BECK SYSTEMS · ps · BS · SA14-109A · UNIVERSAL AMPLIFIER ASSEMBLY · COMPONENT LAYOUT · tp · ht · 14-109-06-002
 - **Title block:** (240, 47)–(332, 69) mm: (\NBS) WARD-BECK SYSTEMS · ps · BS
 
-Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p43 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2)%20p43%20(traced).json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p43 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M462C - M562C - Stereo Equalizer (2) p43 (traced).json](../MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20%282%29%20p43%20%28traced%29.json) (the CAD file: `1985 - M462C - M562C - Stereo Equalizer (2) p43 (traced).dxf`).
 
 ## Full text
 
