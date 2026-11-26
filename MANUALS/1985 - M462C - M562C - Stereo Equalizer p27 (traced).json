@@ -1,0 +1,49 @@
+{
+ "drawing": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M562C - Stereo Equalizer.pdf",
+ "page": 27,
+ "version": 1,
+ "trace": "_traces/cffa0d4c8bf71c83-p27.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1580, 2000],
+  "mm": [341.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "27", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 1.5, 341.3, 430.1],
+ "outlines": {
+  "line": {"rings": 384, "straight": {"n": 5228, "mm": 8625.8}, "curved": {"n": 993, "mm": 1264.9}},
+  "text": {"rings": 42, "straight": {"n": 385, "mm": 368.6}, "curved": {"n": 122, "mm": 173.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [180.5, 285.2, 190.2, 290.0], "text": "1000"},
+   {"mm": [202.7, 285.9, 221.7, 289.7], "text": "24000 Hz"},
+   {"mm": [247.0, 285.2, 282.6, 290.0], "text": "400 Hz 6400 Hz"},
+   {"mm": [311.1, 285.2, 337.5, 290.0], "text": "Jo Hz TO 400"},
+   {"mm": [87.7, 215.0, 98.5, 219.4], "text": "INPUT"},
+   {"mm": [196.7, 214.6, 207.5, 218.9], "text": "SHELF"},
+   {"mm": [214.6, 216.1, 224.8, 220.9], "text": "FREQ"},
+   {"mm": [277.6, 215.7, 287.8, 221.2], "text": "FREQ"},
+   {"mm": [306.1, 213.7, 319.1, 221.9], "text": "87057"},
+   {"mm": [95.2, 166.5, 106.4, 170.8], "text": "RIGHT"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 341 × 432 mm, 1580 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–341 mm across, 2–430 mm up",
+  "- **Outlines:** line 384 rings, 5,228 straight (8,626 mm) / 993 curved (1,265 mm); text 42 rings, 385 straight (369 mm) / 122 curved (174 mm)",
+  "- **Words (OCR):** 11 in 10 lines: 1000 · 24000 Hz · 400 Hz 6400 Hz · Jo Hz TO 400 · INPUT · SHELF · FREQ · FREQ · 87057 · RIGHT"
+ ]
+}

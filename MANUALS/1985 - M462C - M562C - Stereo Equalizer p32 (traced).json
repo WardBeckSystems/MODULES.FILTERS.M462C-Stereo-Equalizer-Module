@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M562C - Stereo Equalizer.pdf",
+ "page": 32,
+ "version": 1,
+ "trace": "_traces/cffa0d4c8bf71c83-p32.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1440, 2000],
+  "mm": [310.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "32", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [8.6, 7.4, 300.1, 422.1],
+ "outlines": {
+  "line": {"rings": 3, "straight": {"n": 795, "mm": 2594.3}, "curved": {"n": 65, "mm": 113.3}},
+  "text": {"rings": 115, "straight": {"n": 914, "mm": 1166.3}, "curved": {"n": 234, "mm": 374.9}},
+  "tb": {"rings": 4, "straight": {"n": 22, "mm": 30.8}, "curved": {"n": 3, "mm": 3.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [11.2, 407.0, 66.3, 413.9], "text": "WAAD-BECK"},
+   {"mm": [69.1, 406.3, 131.1, 414.0], "text": "BybTems LTD_"},
+   {"mm": [121.8, 234.3, 151.3, 241.2], "text": "SECTION"},
+   {"mm": [63.7, 219.1, 97.6, 225.6], "text": "SA14-109A"},
+   {"mm": [101.5, 218.5, 217.8, 226.2], "text": "UNIVERSAL AMPL IFIER ASSEMBLY"},
+   {"mm": [213.5, 34.5, 233.0, 41.0], "text": "Issue"},
+   {"mm": [212.7, 27.0, 257.8, 34.9], "text": "October 1985"}
+  ]
+ },
+ "title_block": {
+  "mm": [5.1, 25.9, 239.2, 422.6],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK", "BybTems LTD_", "SECTION", "SA14-109A", "UNIVERSAL AMPL IFIER ASSEMBLY", "Issue", "October 1985"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 311 × 432 mm, 1440 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–300 mm across, 7–422 mm up",
+  "- **Outlines:** line 3 rings, 795 straight (2,594 mm) / 65 curved (113 mm); text 115 rings, 914 straight (1,166 mm) / 234 curved (375 mm); tb 4 rings, 22 straight (30.8 mm) / 3 curved (3.3 mm)",
+  "- **Words (OCR):** 11 in 7 lines: WAAD-BECK · BybTems LTD_ · SECTION · SA14-109A · UNIVERSAL AMPL IFIER ASSEMBLY · Issue · October 1985",
+  "- **Title block:** (5, 26)–(239, 423) mm: WAAD-BECK · BybTems LTD_ · SECTION · SA14-109A · UNIVERSAL AMPL IFIER ASSEMBLY · Issue · October 1985"
+ ]
+}

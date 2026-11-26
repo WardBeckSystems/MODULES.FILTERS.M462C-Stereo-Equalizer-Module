@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M562C - Stereo Equalizer (2).pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/65ba5e302d8c555c-p16.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1435, 2000],
+  "mm": [309.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.1, 0.0, 304.2, 428.8],
+ "outlines": {
+  "line": {"rings": 709, "straight": {"n": 5654, "mm": 8904.2}, "curved": {"n": 1569, "mm": 2591.1}},
+  "text": {"rings": 99, "straight": {"n": 878, "mm": 1121.2}, "curved": {"n": 241, "mm": 397.3}}
+ },
+ "circles": [
+  {"c": [94.0, 326.3], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [184.2, 54.3], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [85.0, 54.6], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [63.6, 103.1], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [11.9, 407.2, 110.5, 413.9], "text": "WA~D·BECI< SYSTEMS"},
+   {"mm": [114.2, 407.6, 131.9, 413.4], "text": "LTD."},
+   {"mm": [95.0, 350.6, 210.1, 356.1], "text": "M46 2C STEREO EQUALIZER MODUL"},
+   {"mm": [256.1, 61.5, 275.5, 69.9], "text": "ps"},
+   {"mm": [245.5, 51.0, 265.8, 61.5], "text": "BS"},
+   {"mm": [228.0, 51.4, 241.2, 56.9], "text": "3569"},
+   {"mm": [219.6, 44.7, 241.4, 50.2], "text": "PN3645"},
+   {"mm": [219.6, 37.6, 242.0, 43.1], "text": "TIP29B"},
+   {"mm": [224.8, 30.2, 241.8, 36.9], "text": "tp"},
+   {"mm": [219.4, 31.1, 242.0, 36.6], "text": "TI P30B"},
+   {"mm": [218.1, 23.5, 237.5, 30.2], "text": "ht"},
+   {"mm": [219.6, 24.0, 241.4, 29.5], "text": "TN2102"}
+  ]
+ },
+ "dots": [{"c": [175.2, 256.1], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 310 × 432 mm, 1435 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–304 mm across, 0–429 mm up",
+  "- **Outlines:** line 709 rings, 5,654 straight (8,904 mm) / 1,569 curved (2,591 mm); text 99 rings, 878 straight (1,121 mm) / 241 curved (397 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 2.3 @ (94.0, 326.3), r 1.9 @ (184.2, 54.3), r 1.8 @ (85.0, 54.6), r 1.8 @ (63.6, 103.1)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 18 in 12 lines: WA~D·BECI< SYSTEMS · LTD. · M46 2C STEREO EQUALIZER MODUL · ps · BS · 3569 · PN3645 · TIP29B · tp · TI P30B · ht · TN2102"
+ ]
+}

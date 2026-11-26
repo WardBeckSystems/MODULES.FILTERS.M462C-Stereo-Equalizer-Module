@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M562C - Stereo Equalizer.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/cffa0d4c8bf71c83-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1453, 2000],
+  "mm": [313.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.2, 5.2, 306.8, 415.4],
+ "outlines": {
+  "line": {"rings": 10, "straight": {"n": 286, "mm": 2629.1}, "curved": {"n": 68, "mm": 92.4}},
+  "text": {"rings": 191, "straight": {"n": 1909, "mm": 2804.7}, "curved": {"n": 593, "mm": 804.6}},
+  "tb": {"rings": 2, "straight": {"n": 75, "mm": 305.3}, "curved": {"n": 10, "mm": 13.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [107.1, 406.1, 185.9, 415.7], "text": "WAAD-BECK"},
+   {"mm": [189.1, 406.8, 249.6, 416.4], "text": "SYSTEMS"},
+   {"mm": [35.6, 397.3, 274.4, 411.2], "text": "WBS 341 PAOGAESS AVENUE, SCAABOAOLGH; ONTAAIO Mih2x4"},
+   {"mm": [106.0, 395.3, 160.4, 400.8], "text": "TELEX 065-25399"},
+   {"mm": [197.1, 396.0, 230.6, 401.2], "text": "TELEPHIONE"},
+   {"mm": [233.6, 395.5, 274.0, 402.0], "text": "416'438-6556"},
+   {"mm": [126.9, 235.3, 188.5, 245.6], "text": "M462C/M562C"},
+   {"mm": [92.4, 221.5, 222.4, 231.8], "text": "STEREO EQUALIZER MODULE"},
+   {"mm": [223.9, 56.6, 286.9, 63.5], "text": "MANUAL JSSUE #2"},
+   {"mm": [235.1, 43.2, 274.4, 50.1], "text": "May 15. 1987"}
+  ]
+ },
+ "title_block": {
+  "mm": [29.3, 388.6, 255.8, 425.1],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK", "SYSTEMS", "WBS 341 PAOGAESS AVENUE, SCAABOAOLGH; ONTAAIO Mih2x4", "TELEX 065-25399", "TELEPHIONE", "416'438-6556"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 314 × 432 mm, 1453 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–307 mm across, 5–415 mm up",
+  "- **Outlines:** line 10 rings, 286 straight (2,629 mm) / 68 curved (92.4 mm); text 191 rings, 1,909 straight (2,805 mm) / 593 curved (805 mm); tb 2 rings, 75 straight (305 mm) / 10 curved (13.9 mm)",
+  "- **Words (OCR):** 13 in 10 lines: WAAD-BECK · SYSTEMS · WBS 341 PAOGAESS AVENUE, SCAABOAOLGH; ONTAAIO Mih2x4 · TELEX 065-25399 · TELEPHIONE · 416'438-6556 · M462C/M562C · STEREO EQUALIZER MODULE · MANUAL JSSUE #2 · May 15. 1987",
+  "- **Title block:** (29, 389)–(256, 425) mm: WAAD-BECK · SYSTEMS · WBS 341 PAOGAESS AVENUE, SCAABOAOLGH; ONTAAIO Mih2x4 · TELEX 065-25399 · TELEPHIONE · 416'438-6556"
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "drawing": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M562C - Stereo Equalizer (2).pdf",
+ "page": 26,
+ "version": 1,
+ "trace": "_traces/65ba5e302d8c555c-p26.svg",
+ "sheet": {
+  "number": "B 462-04-008",
+  "title": "",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1522, 2000],
+  "mm": [328.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "26", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 9.1, 328.7, 431.6],
+ "outlines": {
+  "line": {"rings": 184, "straight": {"n": 2023, "mm": 4727.8}, "curved": {"n": 442, "mm": 970.5}},
+  "text": {"rings": 255, "straight": {"n": 1751, "mm": 1979.0}, "curved": {"n": 500, "mm": 779.3}},
+  "tb": {"rings": 4, "straight": {"n": 30, "mm": 35.8}, "curved": {"n": 10, "mm": 15.3}}
+ },
+ "circles": [
+  {"c": [65.5, 239.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [258.7, 212.8], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.6, 265.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.2, 146.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [258.9, 264.7], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.5, 213.7], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [258.8, 145.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.9, 291.7], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.5, 161.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.5, 187.8], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [258.6, 160.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [153.3, 145.4], "r": 4.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [153.5, 265.0], "r": 4.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [152.8, 160.7], "r": 4.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [172.2, 145.7], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {
+   "mm": [137.1, 119.6, 187.0, 317.6],
+   "w": 49.9,
+   "h": 198.0,
+   "from": "ring",
+   "words": ["1MlS", "It\"", "15", "15", "30", "kH,", "Mf", "0\"0'", "03", "Lf", "l5", "15", "g~3"]
+  },
+  {
+   "mm": [140.3, 120.5, 184.8, 316.1],
+   "w": 44.4,
+   "h": 195.6,
+   "from": "ring",
+   "words": ["1MlS", "It\"", "15", "15", "30", "kH,", "Mf", "0\"0'", "03", "Lf", "l5", "15", "g~3"]
+  }
+ ],
+ "text": {
+  "words": 30,
+  "lines": [
+   {"mm": [148.1, 309.2, 155.2, 312.0], "text": "1MlS"},
+   {"mm": [60.0, 282.4, 71.5, 296.3], "text": "CD"},
+   {"mm": [170.3, 278.9, 174.2, 282.8], "text": "It\""},
+   {"mm": [162.4, 268.4, 166.2, 271.7], "text": "15"},
+   {"mm": [179.2, 268.4, 183.1, 271.7], "text": "15"},
+   {"mm": [166.7, 253.5, 173.2, 256.8], "text": "30"},
+   {"mm": [150.5, 228.2, 155.0, 231.1], "text": "kH,"},
+   {"mm": [169.7, 226.5, 174.2, 230.3], "text": "Mf"},
+   {"mm": [147.9, 198.8, 185.5, 226.2], "text": "0\"0'"},
+   {"mm": [171.4, 201.0, 177.9, 204.1], "text": "03"},
+   {"mm": [170.3, 174.4, 173.8, 178.3], "text": "Lf"},
+   {"mm": [162.4, 163.7, 165.4, 167.3], "text": "l5"},
+   {"mm": [179.0, 163.7, 182.9, 167.3], "text": "15"},
+   {"mm": [143.6, 141.8, 177.9, 153.6], "text": "g~3"},
+   {"mm": [278.7, 58.1, 299.2, 67.0], "text": "ps"},
+   {"mm": [207.0, 52.5, 323.0, 60.9], "text": "[\\NBS) WARD-BECK SYSTEMS"},
+   {"mm": [267.5, 46.9, 288.9, 58.1], "text": "BS"},
+   {"mm": [255.0, 37.4, 277.2, 42.9], "text": "M46 2C"},
+   {"mm": [212.7, 28.9, 321.5, 34.7], "text": "STEREO EQUALIZER MODULE"},
+   {"mm": [245.5, 24.8, 263.6, 31.8], "text": "tp"},
+   {"mm": [233.2, 20.9, 299.0, 26.7], "text": "MODULE LAYOUT"},
+   {"mm": [238.6, 17.7, 259.1, 24.7], "text": "ht"},
+   {"mm": [215.5, 8.4, 263.2, 13.9], "text": "462-04-008"},
+   {"mm": [308.5, 8.6, 323.9, 14.4], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {"mm": [237.5, 44.7, 328.6, 66.4], "from": "title-block words (training set)", "text": ["ps", "[\\NBS) WARD-BECK SYSTEMS", "BS"]},
+ "dots": [{"c": [162.8, 311.1], "r": 1.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout B 462-04-008, size B 329 × 432 mm, 1522 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–329 mm across, 9–432 mm up",
+  "- **Outlines:** line 184 rings, 2,023 straight (4,728 mm) / 442 curved (970 mm); text 255 rings, 1,751 straight (1,979 mm) / 500 curved (779 mm); tb 4 rings, 30 straight (35.8 mm) / 10 curved (15.3 mm)",
+  "- **Circles and arcs:** 15 circles, 0 arcs; largest r 5.0 @ (65.5, 239.5), r 5.0 @ (258.7, 212.8), r 5.0 @ (65.6, 265.5), r 5.0 @ (65.2, 146.4)",
+  "- **Closed boxes:** 2; named: 1MlS It\" 15 15 30 kH, Mf 0\"0' 03 Lf l5 1; 1MlS It\" 15 15 30 kH, Mf 0\"0' 03 Lf l5 1",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 30 in 24 lines: 1MlS · CD · It\" · 15 · 15 · 30 · kH, · Mf · 0\"0' · 03 · Lf · l5",
+  "- **Title block:** (238, 45)–(329, 66) mm: ps · [\\NBS) WARD-BECK SYSTEMS · BS"
+ ]
+}

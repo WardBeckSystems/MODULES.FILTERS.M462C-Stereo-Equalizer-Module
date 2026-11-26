@@ -1,0 +1,74 @@
+{
+ "drawing": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M562C - Stereo Equalizer (2).pdf",
+ "page": 25,
+ "version": 1,
+ "trace": "_traces/65ba5e302d8c555c-p25.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1574, 2000],
+  "mm": [339.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "25", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 339.8, 431.9],
+ "outlines": {
+  "line": {"rings": 493, "straight": {"n": 6506, "mm": 12512.0}, "curved": {"n": 1118, "mm": 1458.4}},
+  "text": {"rings": 26, "straight": {"n": 212, "mm": 199.6}, "curved": {"n": 67, "mm": 90.5}}
+ },
+ "circles": [
+  {"c": [135.7, 213.5], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [135.7, 151.0], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [130.2, 280.8], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [129.9, 157.0], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [243.1, 284.1, 249.8, 297.5], "w": 6.7, "h": 13.4, "from": "ring"},
+  {"mm": [251.5, 283.9, 258.4, 297.5], "w": 6.9, "h": 13.6, "from": "ring"},
+  {"mm": [259.9, 283.9, 267.4, 297.5], "w": 7.5, "h": 13.6, "from": "ring"},
+  {"mm": [269.0, 283.9, 276.8, 297.5], "w": 7.8, "h": 13.6, "from": "ring"},
+  {"mm": [123.7, 278.3, 131.9, 283.0], "w": 8.2, "h": 4.7, "from": "ring"},
+  {"mm": [221.7, 261.2, 226.7, 278.9], "w": 5.0, "h": 17.7, "from": "ring"},
+  {"mm": [133.6, 248.1, 137.5, 264.3], "w": 3.9, "h": 16.2, "from": "ring"},
+  {"mm": [251.5, 231.9, 258.4, 245.3], "w": 6.9, "h": 13.4, "from": "ring"},
+  {"mm": [259.9, 231.9, 267.3, 245.3], "w": 7.3, "h": 13.4, "from": "ring"},
+  {"mm": [269.0, 231.9, 276.9, 245.3], "w": 7.9, "h": 13.4, "from": "ring"},
+  {"mm": [223.0, 188.0, 226.7, 204.7], "w": 3.7, "h": 16.6, "from": "ring"},
+  {"mm": [242.5, 179.6, 249.4, 193.0], "w": 6.9, "h": 13.4, "from": "ring"},
+  {"mm": [251.1, 179.4, 258.3, 192.8], "w": 7.2, "h": 13.4, "from": "ring"},
+  {"mm": [259.5, 179.4, 267.1, 192.8], "w": 7.6, "h": 13.4, "from": "ring"},
+  {"mm": [268.8, 179.2, 276.6, 192.8], "w": 7.8, "h": 13.6, "from": "ring"},
+  {"mm": [133.8, 174.4, 137.5, 190.6], "w": 3.7, "h": 16.2, "from": "ring"},
+  {"mm": [123.5, 154.8, 131.5, 159.1], "w": 8.0, "h": 4.3, "from": "ring"},
+  {"mm": [293.4, 138.8, 299.2, 149.6], "w": 5.8, "h": 10.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [213.3, 270.1, 218.5, 272.7], "text": "lot"},
+   {"mm": [172.1, 258.6, 188.3, 261.3], "text": "SAI4_ 1098"},
+   {"mm": [171.4, 255.4, 188.9, 258.0], "text": "UN IV ERSAL"},
+   {"mm": [171.4, 252.4, 187.0, 255.0], "text": "AMPL IFIE"},
+   {"mm": [169.5, 249.4, 191.5, 252.0], "text": "SU8ASSEM8LY"},
+   {"mm": [288.4, 59.8, 309.6, 68.9], "text": "ps"},
+   {"mm": [276.8, 48.4, 299.0, 59.9], "text": "BS"},
+   {"mm": [254.1, 25.5, 272.9, 32.7], "text": "tp"},
+   {"mm": [246.8, 18.4, 267.9, 25.5], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 340 × 432 mm, 1574 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–340 mm across, 0–432 mm up",
+  "- **Outlines:** line 493 rings, 6,506 straight (12,512 mm) / 1,118 curved (1,458 mm); text 26 rings, 212 straight (200 mm) / 67 curved (90.5 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 2.8 @ (135.7, 213.5), r 2.5 @ (135.7, 151.0), r 1.4 @ (130.2, 280.8), r 1.3 @ (129.9, 157.0)",
+  "- **Closed boxes:** 18",
+  "- **Words (OCR):** 13 in 9 lines: lot · SAI4_ 1098 · UN IV ERSAL · AMPL IFIE · SU8ASSEM8LY · ps · BS · tp · ht"
+ ]
+}

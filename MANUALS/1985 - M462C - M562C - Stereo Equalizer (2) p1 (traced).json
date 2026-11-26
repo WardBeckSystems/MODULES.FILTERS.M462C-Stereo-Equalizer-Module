@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M562C - Stereo Equalizer (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/65ba5e302d8c555c-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1453, 2000],
+  "mm": [313.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.2, 5.2, 306.8, 415.4],
+ "outlines": {
+  "line": {"rings": 82, "straight": {"n": 761, "mm": 3171.8}, "curved": {"n": 173, "mm": 220.0}},
+  "text": {"rings": 134, "straight": {"n": 1375, "mm": 2126.8}, "curved": {"n": 427, "mm": 586.1}},
+  "tb": {"rings": 39, "straight": {"n": 375, "mm": 680.2}, "curved": {"n": 90, "mm": 121.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [106.7, 404.8, 277.9, 416.3], "text": "WAAD-BECK SYSTEMS LTO"},
+   {"mm": [35.0, 396.6, 149.8, 411.2], "text": "WBS EO ic3"},
+   {"mm": [176.0, 400.7, 247.6, 407.2], "text": "3cabcouh cuIPO"},
+   {"mm": [256.7, 393.4, 276.4, 408.0], "text": "333"},
+   {"mm": [127.2, 396.0, 161.5, 400.8], "text": "Gc 73J2"},
+   {"mm": [126.3, 233.4, 189.8, 244.9], "text": "M4gzC /M5G2C"},
+   {"mm": [92.0, 220.4, 223.9, 231.9], "text": "STEREO EQUALIZER MODULE"},
+   {"mm": [225.0, 57.9, 251.1, 62.7], "text": "Uani"},
+   {"mm": [255.8, 57.9, 277.0, 64.3], "text": "Aque"}
+  ]
+ },
+ "title_block": {
+  "mm": [28.8, 388.1, 284.1, 424.9],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK SYSTEMS LTO", "WBS EO ic3", "3cabcouh cuIPO", "333", "Gc 73J2"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 314 × 432 mm, 1453 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–307 mm across, 5–415 mm up",
+  "- **Outlines:** line 82 rings, 761 straight (3,172 mm) / 173 curved (220 mm); text 134 rings, 1,375 straight (2,127 mm) / 427 curved (586 mm); tb 39 rings, 375 straight (680 mm) / 90 curved (122 mm)",
+  "- **Words (OCR):** 10 in 9 lines: WAAD-BECK SYSTEMS LTO · WBS EO ic3 · 3cabcouh cuIPO · 333 · Gc 73J2 · M4gzC /M5G2C · STEREO EQUALIZER MODULE · Uani · Aque",
+  "- **Title block:** (29, 388)–(284, 425) mm: WAAD-BECK SYSTEMS LTO · WBS EO ic3 · 3cabcouh cuIPO · 333 · Gc 73J2"
+ ]
+}

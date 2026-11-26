@@ -1,0 +1,70 @@
+{
+ "drawing": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M562C - Stereo Equalizer (2).pdf",
+ "page": 43,
+ "version": 1,
+ "trace": "_traces/65ba5e302d8c555c-p43.svg",
+ "sheet": {
+  "number": "B 14-109-06-002",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1539, 2000],
+  "mm": [332.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "43", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 332.3, 431.2],
+ "outlines": {
+  "line": {"rings": 894, "straight": {"n": 7893, "mm": 8255.8}, "curved": {"n": 2267, "mm": 2414.1}},
+  "text": {"rings": 130, "straight": {"n": 1093, "mm": 1216.3}, "curved": {"n": 375, "mm": 451.6}},
+  "tb": {"rings": 2, "straight": {"n": 14, "mm": 19.4}, "curved": {"n": 5, "mm": 7.9}}
+ },
+ "circles": [
+  {"c": [119.3, 284.2], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [125.3, 159.6], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [37.0, 160.6], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [126.2, 284.6], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8}
+ ],
+ "boxes": [
+  {"mm": [31.3, 153.9, 131.9, 291.5], "w": 100.6, "h": 137.5, "from": "ring", "words": ["-fBI'\"", "DP", "-R17"]},
+  {"mm": [66.9, 275.7, 73.2, 278.5], "w": 6.3, "h": 2.8, "from": "ring"},
+  {"mm": [114.6, 270.9, 124.6, 274.0], "w": 9.9, "h": 3.1, "from": "ring"},
+  {"mm": [126.5, 271.0, 128.7, 273.8], "w": 2.2, "h": 2.8, "from": "ring"},
+  {"mm": [46.6, 213.5, 48.8, 216.3], "w": 2.2, "h": 2.8, "from": "ring"},
+  {"mm": [125.7, 188.5, 127.8, 191.3], "w": 2.2, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [37.1, 273.8, 53.8, 277.1], "text": "-fBI'\""},
+   {"mm": [37.1, 269.9, 48.6, 273.2], "text": "-R17"},
+   {"mm": [49.0, 270.7, 55.7, 274.1], "text": "DP"},
+   {"mm": [209.2, 54.8, 324.9, 63.0], "text": "(\\NBS) WARD-BECK SYSTEMS"},
+   {"mm": [285.9, 54.6, 306.6, 63.5], "text": "ps"},
+   {"mm": [274.4, 43.4, 296.0, 54.7], "text": "BS"},
+   {"mm": [248.9, 39.9, 285.9, 45.7], "text": "SA14-109A"},
+   {"mm": [212.0, 31.3, 321.5, 36.8], "text": "UNIVERSAL AMPLIFIER ASSEMBLY"},
+   {"mm": [228.6, 23.1, 304.0, 28.6], "text": "COMPONENT LAYOUT"},
+   {"mm": [252.2, 21.2, 270.5, 28.4], "text": "tp"},
+   {"mm": [245.3, 14.0, 266.0, 21.2], "text": "ht"},
+   {"mm": [215.0, 10.6, 266.4, 16.3], "text": "14-109-06-002"},
+   {"mm": [309.2, 11.0, 325.6, 16.5], "text": "ISS.2"}
+  ]
+ },
+ "title_block": {"mm": [239.7, 47.1, 331.7, 68.9], "from": "title-block words (training set)", "text": ["(\\NBS) WARD-BECK SYSTEMS", "ps", "BS"]},
+ "dots": [{"c": [54.8, 173.5], "r": 0.9, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout B 14-109-06-002, size B 332 × 432 mm, 1539 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–332 mm across, 0–431 mm up",
+  "- **Outlines:** line 894 rings, 7,893 straight (8,256 mm) / 2,267 curved (2,414 mm); text 130 rings, 1,093 straight (1,216 mm) / 375 curved (452 mm); tb 2 rings, 14 straight (19.4 mm) / 5 curved (7.9 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 3.4 @ (119.3, 284.2), r 2.5 @ (125.3, 159.6), r 2.0 @ (37.0, 160.6), r 2.0 @ (126.2, 284.6)",
+  "- **Closed boxes:** 6; named: -fBI'\" DP -R17",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 18 in 13 lines: -fBI'\" · -R17 · DP · (\\NBS) WARD-BECK SYSTEMS · ps · BS · SA14-109A · UNIVERSAL AMPLIFIER ASSEMBLY · COMPONENT LAYOUT · tp · ht · 14-109-06-002",
+  "- **Title block:** (240, 47)–(332, 69) mm: (\\NBS) WARD-BECK SYSTEMS · ps · BS"
+ ]
+}

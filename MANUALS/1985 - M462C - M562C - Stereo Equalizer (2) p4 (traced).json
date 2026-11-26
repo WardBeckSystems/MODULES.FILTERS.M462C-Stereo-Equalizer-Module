@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M562C - Stereo Equalizer (2).pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/65ba5e302d8c555c-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1412, 2000],
+  "mm": [304.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [8.0, 1.9, 303.8, 423.6],
+ "outlines": {
+  "line": {"rings": 71, "straight": {"n": 1223, "mm": 3541.5}, "curved": {"n": 210, "mm": 351.5}},
+  "text": {"rings": 141, "straight": {"n": 1050, "mm": 1203.7}, "curved": {"n": 305, "mm": 508.3}}
+ },
+ "circles": [
+  {"c": [138.3, 355.6], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [142.7, 306.2], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 30,
+  "lines": [
+   {"mm": [11.0, 408.3, 130.2, 414.0], "text": "WAFlD-BECI< BYSTEMS LTD."},
+   {"mm": [123.7, 365.7, 181.1, 371.0], "text": "TECHr IlCAL DATA"},
+   {"mm": [100.8, 352.1, 160.4, 357.2], "text": "62C STER EO EQUA"},
+   {"mm": [169.5, 352.1, 206.2, 357.2], "text": "ZER MODUL"},
+   {"mm": [23.7, 324.1, 52.0, 329.6], "text": "Di me io"},
+   {"mm": [125.7, 316.1, 172.3, 326.2], "text": "\"lit, 178 mm"},
+   {"mm": [133.2, 324.5, 139.5, 330.3], "text": "wi"},
+   {"mm": [165.4, 324.5, 173.4, 330.3], "text": ".00"},
+   {"mm": [187.0, 324.5, 196.3, 330.3], "text": ";!lh"},
+   {"mm": [236.2, 324.5, 247.0, 330.3], "text": "eep"},
+   {"mm": [111.8, 316.9, 121.8, 322.7], "text": "(41"},
+   {"mm": [185.9, 316.9, 196.0, 322.7], "text": "H:'S"},
+   {"mm": [23.3, 303.3, 32.4, 308.6], "text": "Wei"},
+   {"mm": [130.6, 303.1, 137.1, 308.6], "text": "12"},
+   {"mm": [251.7, 60.7, 270.7, 68.8], "text": "ps"},
+   {"mm": [241.4, 50.1, 261.2, 60.4], "text": "BS"},
+   {"mm": [221.1, 29.8, 237.9, 36.3], "text": "tp"},
+   {"mm": [214.4, 23.3, 233.4, 29.8], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 305 × 432 mm, 1412 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–304 mm across, 2–424 mm up",
+  "- **Outlines:** line 71 rings, 1,223 straight (3,542 mm) / 210 curved (352 mm); text 141 rings, 1,050 straight (1,204 mm) / 305 curved (508 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.3 @ (138.3, 355.6), r 1.8 @ (142.7, 306.2)",
+  "- **Words (OCR):** 30 in 18 lines: WAFlD-BECI< BYSTEMS LTD. · TECHr IlCAL DATA · 62C STER EO EQUA · ZER MODUL · Di me io · \"lit, 178 mm · wi · .00 · ;!lh · eep · (41 · H:'S"
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "drawing": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M562C - Stereo Equalizer (2).pdf",
+ "page": 28,
+ "version": 1,
+ "trace": "_traces/65ba5e302d8c555c-p28.svg",
+ "sheet": {
+  "number": "B 462-01-004",
+  "title": "",
+  "dtype": "01",
+  "type": "functional",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1560, 2000],
+  "mm": [336.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "28", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, -0.1, 335.5, 431.8],
+ "outlines": {
+  "line": {"rings": 230, "straight": {"n": 3605, "mm": 4723.2}, "curved": {"n": 732, "mm": 779.2}},
+  "text": {"rings": 174, "straight": {"n": 1394, "mm": 1873.3}, "curved": {"n": 326, "mm": 499.9}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 7468, "straight": {"n": 7714, "mm": 3984.5}, "curved": {"n": 31, "mm": 38.3}},
+   "text": {"paths": 1891, "straight": {"n": 2194, "mm": 1637.2}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 59,
+  "orientation": {"horizontal": {"n": 2760, "mm": 1680.2}, "vertical": {"n": 2532, "mm": 1261.2}, "diagonal": {"n": 4616, "mm": 2680.4}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [84.6, 225.2], "r": 2.7, "kind": "arc", "span": 137, "from": ["centre line"], "start": 246},
+  {"c": [3.6, 263.8], "r": 2.7, "kind": "arc", "span": 99, "from": ["centre line"], "start": 164},
+  {"c": [2.2, 178.2], "r": 2.5, "kind": "arc", "span": 123, "from": ["centre line"], "start": 331},
+  {"c": [85.5, 223.8], "r": 2.1, "kind": "arc", "span": 127, "from": ["centre line"], "start": 343},
+  {"c": [4.4, 78.8], "r": 1.7, "kind": "arc", "span": 152, "from": ["centre line"], "start": 116},
+  {"c": [10.1, 169.0], "r": 1.7, "kind": "arc", "span": 130, "from": ["centre line"], "start": 177},
+  {"c": [10.4, 237.1], "r": 1.4, "kind": "arc", "span": 134, "from": ["centre line"], "start": 332},
+  {"c": [1.2, 290.2], "r": 1.0, "kind": "arc", "span": 156, "from": ["centre line"], "start": 181},
+  {"c": [5.4, 199.5], "r": 0.8, "kind": "arc", "span": 155, "from": ["centre line"], "start": 302},
+  {"c": [4.2, 117.9], "r": 0.6, "kind": "arc", "span": 170, "from": ["centre line"], "start": 265}
+ ],
+ "boxes": [
+  {"mm": [106.2, 235.8, 144.4, 303.1], "w": 38.2, "h": 67.4, "from": "block", "words": ["$A14-108"]},
+  {"mm": [106.7, 139.7, 144.9, 206.8], "w": 38.2, "h": 67.1, "from": "block", "words": ["50\\14-101"]}
+ ],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [71.0, 316.5, 77.1, 320.3], "text": "EO"},
+   {"mm": [67.4, 312.6, 79.0, 316.2], "text": "IHSEIlT"},
+   {"mm": [116.4, 268.1, 133.6, 271.3], "text": "$A14-108"},
+   {"mm": [144.7, 265.6, 186.5, 272.3], "text": "~---+UFT"},
+   {"mm": [5.8, 219.4, 15.3, 223.7], "text": "IFII£O"},
+   {"mm": [188.5, 221.7, 200.8, 224.8], "text": "OUlPllT"},
+   {"mm": [119.4, 170.1, 136.0, 173.5], "text": "50\\14-101"},
+   {"mm": [177.7, 170.3, 187.6, 173.9], "text": "RIGHT"},
+   {"mm": [285.9, 59.4, 306.8, 68.5], "text": "ps"},
+   {"mm": [274.2, 47.9, 334.4, 59.4], "text": "BS SYSTEMS"},
+   {"mm": [217.4, 48.1, 298.8, 56.3], "text": "[\\/VB=:) WARD-BECK"},
+   {"mm": [266.2, 33.5, 289.5, 39.0], "text": "M462C"},
+   {"mm": [251.7, 25.3, 270.3, 32.5], "text": "tp"},
+   {"mm": [220.4, 25.5, 324.3, 31.0], "text": "STEREO EQUALIZER MODULE"},
+   {"mm": [244.6, 18.1, 265.6, 25.3], "text": "ht"},
+   {"mm": [257.4, 17.7, 295.4, 23.2], "text": "FUNCTIONAL"},
+   {"mm": [225.8, 4.7, 274.8, 10.3], "text": "462-01-004"},
+   {"mm": [318.2, 5.0, 335.5, 10.7], "text": "155.1"}
+  ]
+ },
+ "title_block": {"mm": [248.6, 40.4, 336.8, 62.1], "from": "title-block words (training set)", "text": ["BS SYSTEMS", "[\\/VB=:) WARD-BECK"]},
+ "dots": [],
+ "nets": {
+  "groups": 30,
+  "wire_runs": 241,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 78.4, "runs": 7, "ends": 4, "bbox": [8.2, 156.3, 33.2, 190.0], "labels": []},
+   {"mm": 71.3, "runs": 6, "ends": 4, "bbox": [15.5, 253.9, 33.9, 286.7], "labels": []},
+   {"mm": 70.4, "runs": 3, "ends": 3, "bbox": [74.5, 269.4, 105.8, 309.2], "labels": []},
+   {"mm": 69.1, "runs": 3, "ends": 3, "bbox": [74.5, 134.9, 106.0, 172.9], "labels": []},
+   {"mm": 61.5, "runs": 1, "ends": 2, "bbox": [10.6, 309.6, 72.1, 310.0], "labels": ["IHSEIlT"]},
+   {"mm": 60.7, "runs": 1, "ends": 2, "bbox": [11.4, 134.5, 72.1, 134.7], "labels": []},
+   {"mm": 23.5, "runs": 2, "ends": 2, "bbox": [223.5, 47.3, 247.0, 47.7], "labels": ["[\\/VB=:)"]},
+   {"mm": 17.3, "runs": 1, "ends": 2, "bbox": [54.6, 269.7, 71.9, 269.7], "labels": []},
+   {"mm": 17.1, "runs": 1, "ends": 2, "bbox": [55.1, 173.2, 72.1, 173.2], "labels": []},
+   {"mm": 15.3, "runs": 1, "ends": 2, "bbox": [225.8, 56.8, 241.2, 56.8], "labels": ["[\\/VB=:)"]},
+   {"mm": 13.8, "runs": 1, "ends": 2, "bbox": [74.3, 309.6, 88.1, 309.6], "labels": ["IHSEIlT"]},
+   {"mm": 13.8, "runs": 1, "ends": 2, "bbox": [74.7, 134.5, 88.5, 134.5], "labels": []},
+   {"mm": 6.9, "runs": 2, "ends": 2, "bbox": [7.8, 190.4, 15.1, 190.4], "labels": []},
+   {"mm": 6.3, "runs": 1, "ends": 2, "bbox": [218.1, 49.2, 218.3, 55.5], "labels": ["[\\/VB=:)"]},
+   {"mm": 5.8, "runs": 1, "ends": 2, "bbox": [173.2, 136.4, 173.2, 142.3], "labels": []},
+   {"mm": 5.8, "runs": 1, "ends": 2, "bbox": [173.2, 279.4, 173.2, 285.2], "labels": ["~---+UFT"]},
+   {"mm": 5.8, "runs": 1, "ends": 2, "bbox": [173.2, 313.3, 173.4, 319.1], "labels": []},
+   {"mm": 5.8, "runs": 1, "ends": 2, "bbox": [173.2, 321.7, 173.2, 327.5], "labels": []},
+   {"mm": 5.8, "runs": 1, "ends": 2, "bbox": [173.4, 288.0, 173.4, 293.8], "labels": []},
+   {"mm": 5.8, "runs": 1, "ends": 2, "bbox": [173.4, 296.4, 173.4, 302.3], "labels": []},
+   {"mm": 5.6, "runs": 1, "ends": 2, "bbox": [173.2, 235.1, 173.2, 240.7], "labels": []},
+   {"mm": 5.6, "runs": 1, "ends": 2, "bbox": [173.2, 305.1, 173.4, 310.7], "labels": []},
+   {"mm": 5.4, "runs": 2, "ends": 2, "bbox": [3.5, 249.4, 9.3, 249.6], "labels": []},
+   {"mm": 5.4, "runs": 1, "ends": 2, "bbox": [9.3, 287.4, 14.7, 287.4], "labels": []},
+   {"mm": 5.4, "runs": 1, "ends": 2, "bbox": [173.2, 243.8, 173.4, 249.1], "labels": []},
+   {"mm": 5.4, "runs": 1, "ends": 2, "bbox": [173.4, 193.0, 173.6, 198.4], "labels": []},
+   {"mm": 5.2, "runs": 1, "ends": 2, "bbox": [0.4, 309.8, 5.6, 310.0], "labels": []},
+   {"mm": 5.2, "runs": 1, "ends": 2, "bbox": [173.2, 201.2, 173.4, 206.4], "labels": []},
+   {"mm": 5.2, "runs": 1, "ends": 2, "bbox": [173.4, 227.1, 173.4, 232.3], "labels": []},
+   {"mm": 5.2, "runs": 1, "ends": 2, "bbox": [173.4, 252.2, 173.4, 257.4], "labels": ["~---+UFT"]}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** functional B 462-01-004, size B 337 × 432 mm, 1560 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 230 rings, 3,605 straight (4,723 mm) / 732 curved (779 mm); text 174 rings, 1,394 straight (1,873 mm) / 326 curved (500 mm)",
+  "- **Centre lines:** 9,359 paths (59 closed); straight 5,622 mm, curved 38.3 mm; horizontal 1,680 mm, vertical 1,261 mm, diagonal 2,680 mm",
+  "- **Circles and arcs:** 0 circles, 10 arcs",
+  "- **Closed boxes:** 2; named: $A14-108; 50\\14-101",
+  "- **Words (OCR):** 22 in 18 lines: EO · IHSEIlT · $A14-108 · ~---+UFT · IFII£O · OUlPllT · 50\\14-101 · RIGHT · ps · BS SYSTEMS · [\\/VB=:) WARD-BECK · M462C",
+  "- **Title block:** (249, 40)–(337, 62) mm: BS SYSTEMS · [\\/VB=:) WARD-BECK",
+  "- **Wiring (first pass):** 30 connected wire groups from 241 runs; labelled ends: 62 mm → IHSEIlT; 24 mm → [\\/VB=:); 15 mm → [\\/VB=:); 14 mm → IHSEIlT; 6 mm → [\\/VB=:)"
+ ]
+}

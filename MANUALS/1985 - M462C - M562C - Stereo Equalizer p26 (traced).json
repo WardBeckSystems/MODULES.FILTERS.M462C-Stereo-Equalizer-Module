@@ -1,0 +1,78 @@
+{
+ "drawing": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M562C - Stereo Equalizer.pdf",
+ "page": 26,
+ "version": 1,
+ "trace": "_traces/cffa0d4c8bf71c83-p26.svg",
+ "sheet": {
+  "number": "B 462-04-008",
+  "title": "",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1522, 2000],
+  "mm": [328.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "26", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 9.1, 328.7, 431.6],
+ "outlines": {
+  "line": {"rings": 313, "straight": {"n": 2638, "mm": 5250.4}, "curved": {"n": 681, "mm": 1358.5}},
+  "text": {"rings": 113, "straight": {"n": 981, "mm": 1281.5}, "curved": {"n": 243, "mm": 377.1}},
+  "tb": {"rings": 2, "straight": {"n": 62, "mm": 152.3}, "curved": {"n": 2, "mm": 4.2}}
+ },
+ "circles": [
+  {"c": [65.5, 239.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [258.7, 212.8], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.6, 265.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.2, 146.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [258.9, 264.7], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.5, 213.7], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [258.8, 145.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.9, 291.7], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.5, 161.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.5, 187.8], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [258.6, 160.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [153.0, 213.3], "r": 4.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [153.3, 145.4], "r": 4.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [153.5, 265.0], "r": 4.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [152.8, 160.7], "r": 4.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [260.0, 160.4], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [172.2, 145.7], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [144.7, 144.1], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [137.1, 119.6, 187.0, 317.6], "w": 49.9, "h": 198.0, "from": "ring", "words": ["WVBS", "M462C", "KHz"]},
+  {"mm": [140.3, 120.5, 184.8, 316.1], "w": 44.4, "h": 195.6, "from": "ring", "words": ["WVBS", "M462C", "KHz"]},
+  {"mm": [143.9, 182.4, 147.2, 185.0], "w": 3.3, "h": 2.6, "from": "ring"}
+ ],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [148.1, 309.0, 156.3, 312.8], "text": "WVBS"},
+   {"mm": [168.2, 309.0, 178.3, 312.8], "text": "M462C"},
+   {"mm": [149.8, 279.8, 156.3, 283.6], "text": "KHz"},
+   {"mm": [210.9, 51.8, 322.6, 58.8], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [253.7, 36.7, 277.9, 43.7], "text": "M462C"},
+   {"mm": [210.9, 27.6, 322.1, 35.8], "text": "STEREO EQUALIZER MODULE"},
+   {"mm": [267.7, 20.3, 299.0, 28.7], "text": "LAYout"},
+   {"mm": [232.1, 19.4, 264.9, 27.6], "text": "MODULE"},
+   {"mm": [213.7, 7.6, 263.4, 14.5], "text": "462-04-008"},
+   {"mm": [306.6, 7.6, 323.9, 14.5], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {"mm": [204.4, 43.2, 328.6, 67.4], "from": "title-block words (training set)", "text": ["WBS WARD-BECK SYSTEMS"]},
+ "dots": [{"c": [162.8, 311.1], "r": 1.5, "lines": 0}, {"c": [65.5, 160.4], "r": 0.7, "lines": 0}, {"c": [162.3, 126.1], "r": 1.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout B 462-04-008, size B 329 × 432 mm, 1522 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–329 mm across, 9–432 mm up",
+  "- **Outlines:** line 313 rings, 2,638 straight (5,250 mm) / 681 curved (1,358 mm); text 113 rings, 981 straight (1,282 mm) / 243 curved (377 mm); tb 2 rings, 62 straight (152 mm) / 2 curved (4.2 mm)",
+  "- **Circles and arcs:** 18 circles, 0 arcs; largest r 5.0 @ (65.5, 239.5), r 5.0 @ (258.7, 212.8), r 5.0 @ (65.6, 265.5), r 5.0 @ (65.2, 146.4)",
+  "- **Closed boxes:** 3; named: WVBS M462C KHz; WVBS M462C KHz",
+  "- **Dots (junctions):** 3",
+  "- **Words (OCR):** 12 in 10 lines: WVBS · M462C · KHz · WBS WARD-BECK SYSTEMS · M462C · STEREO EQUALIZER MODULE · LAYout · MODULE · 462-04-008 · ISS.1",
+  "- **Title block:** (204, 43)–(329, 67) mm: WBS WARD-BECK SYSTEMS"
+ ]
+}

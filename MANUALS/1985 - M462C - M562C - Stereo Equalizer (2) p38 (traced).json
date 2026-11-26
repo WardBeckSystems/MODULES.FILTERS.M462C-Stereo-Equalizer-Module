@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M562C - Stereo Equalizer (2).pdf",
+ "page": 38,
+ "version": 1,
+ "trace": "_traces/65ba5e302d8c555c-p38.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1419, 2000],
+  "mm": [306.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "38", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.1, 0.6, 301.7, 423.4],
+ "outlines": {
+  "line": {"rings": 581, "straight": {"n": 4732, "mm": 7522.4}, "curved": {"n": 1323, "mm": 2089.6}},
+  "text": {"rings": 65, "straight": {"n": 615, "mm": 779.2}, "curved": {"n": 155, "mm": 260.8}}
+ },
+ "circles": [
+  {"c": [93.1, 326.4], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [83.9, 36.2], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [53.8, 407.0, 126.7, 412.5], "text": "CK YSTEMS LTD"},
+   {"mm": [138.4, 364.0, 153.9, 369.5], "text": "ARTS"},
+   {"mm": [164.1, 364.0, 173.4, 369.5], "text": "IST"},
+   {"mm": [80.3, 350.8, 178.1, 355.9], "text": "5,1,1 109 UN VE RSAL AM PLIF"},
+   {"mm": [194.7, 350.8, 222.4, 355.9], "text": "ASSEM BL"},
+   {"mm": [271.8, 63.0, 290.6, 71.4], "text": "ca"},
+   {"mm": [250.9, 42.1, 271.0, 52.7], "text": "BS"},
+   {"mm": [230.4, 21.6, 247.2, 28.1], "text": "tp"},
+   {"mm": [223.9, 15.1, 243.1, 21.6], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 306 × 432 mm, 1419 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–302 mm across, 1–423 mm up",
+  "- **Outlines:** line 581 rings, 4,732 straight (7,522 mm) / 1,323 curved (2,090 mm); text 65 rings, 615 straight (779 mm) / 155 curved (261 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.3 @ (93.1, 326.4), r 1.8 @ (83.9, 36.2)",
+  "- **Words (OCR):** 18 in 9 lines: CK YSTEMS LTD · ARTS · IST · 5,1,1 109 UN VE RSAL AM PLIF · ASSEM BL · ca · BS · tp · ht"
+ ]
+}

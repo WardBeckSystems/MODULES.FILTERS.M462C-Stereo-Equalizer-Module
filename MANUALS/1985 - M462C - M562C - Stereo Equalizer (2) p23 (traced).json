@@ -1,0 +1,74 @@
+{
+ "drawing": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M562C - Stereo Equalizer (2).pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/65ba5e302d8c555c-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1417, 2000],
+  "mm": [305.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.5, 2.8, 295.8, 424.0],
+ "outlines": {
+  "line": {"rings": 154, "straight": {"n": 2305, "mm": 5098.8}, "curved": {"n": 450, "mm": 751.0}},
+  "text": {"rings": 309, "straight": {"n": 2532, "mm": 2993.3}, "curved": {"n": 765, "mm": 1297.3}}
+ },
+ "circles": [
+  {"c": [47.2, 326.0], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [114.8, 35.8], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [123.1, 411.7, 125.9, 413.9], "w": 2.9, "h": 2.2, "from": "ring"}],
+ "text": {
+  "words": 38,
+  "lines": [
+   {"mm": [67.4, 410.4, 108.4, 416.9], "text": "atatems"},
+   {"mm": [11.4, 410.4, 36.1, 415.2], "text": "LOAAD"},
+   {"mm": [132.8, 367.9, 172.1, 374.4], "text": "PARTS List"},
+   {"mm": [91.8, 358.0, 213.3, 362.8], "text": "MSer Gnind uum A Hc"},
+   {"mm": [88.5, 343.3, 118.1, 349.8], "text": "cdhtrOL"},
+   {"mm": [123.1, 345.0, 144.4, 349.8], "text": "440be"},
+   {"mm": [188.7, 343.3, 216.5, 349.8], "text": "BuTTCY"},
+   {"mm": [67.4, 323.6, 111.6, 330.1], "text": "descRinTiOH"},
+   {"mm": [234.5, 321.9, 282.2, 328.4], "text": "PAKI LUXUEH"},
+   {"mm": [77.1, 310.5, 100.0, 315.3], "text": "uMee"},
+   {"mm": [216.5, 309.0, 246.1, 315.4], "text": "031-7335"},
+   {"mm": [70.6, 302.3, 111.6, 308.7], "text": "(aad/Whlto)"},
+   {"mm": [216.5, 302.3, 246.1, 308.7], "text": "oco-16J)"},
+   {"mm": [73.8, 289.3, 100.2, 295.8], "text": "(pack |"},
+   {"mm": [216.5, 289.3, 246.1, 294.1], "text": "ASXS"},
+   {"mm": [70.6, 282.6, 121.6, 287.4], "text": "eMocuhi"},
+   {"mm": [216.5, 282.6, 246.1, 287.4], "text": "CLn-165E"},
+   {"mm": [70.6, 267.9, 90.2, 274.4], "text": "IRedi"},
+   {"mm": [216.5, 267.9, 242.9, 274.4], "text": "FG_RED"},
+   {"mm": [70.6, 246.6, 88.7, 253.0], "text": "(Orzy"},
+   {"mm": [216.5, 246.6, 247.6, 253.0], "text": "FK-GKET"},
+   {"mm": [142.7, 161.5, 164.1, 166.3], "text": "iNL '"},
+   {"mm": [249.4, 52.5, 278.1, 77.9], "text": "Sps"},
+   {"mm": [238.6, 46.0, 258.2, 60.6], "text": "40"},
+   {"mm": [39.3, 33.7, 78.6, 38.5], "text": "recomimicnet"},
+   {"mm": [137.7, 33.7, 211.8, 38.5], "text": "nerinenic Dacis mdr"},
+   {"mm": [242.7, 32.0, 273.8, 38.4], "text": "rp\"cilied"},
+   {"mm": [36.1, 27.0, 72.1, 31.8], "text": "unalurerh"},
+   {"mm": [90.2, 27.0, 154.2, 31.8], "text": "canninuet nmtmim"},
+   {"mm": [157.4, 25.5, 241.2, 32.0], "text": "equipim[ per (ertnta\" _"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 306 × 432 mm, 1417 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 10–296 mm across, 3–424 mm up",
+  "- **Outlines:** line 154 rings, 2,305 straight (5,099 mm) / 450 curved (751 mm); text 309 rings, 2,532 straight (2,993 mm) / 765 curved (1,297 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.3 @ (47.2, 326.0), r 1.8 @ (114.8, 35.8)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 38 in 30 lines: atatems · LOAAD · PARTS List · MSer Gnind uum A Hc · cdhtrOL · 440be · BuTTCY · descRinTiOH · PAKI LUXUEH · uMee · 031-7335 · (aad/Whlto)"
+ ]
+}

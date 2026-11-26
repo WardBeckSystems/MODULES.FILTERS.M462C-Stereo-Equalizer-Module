@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M562C - Stereo Equalizer (2).pdf",
+ "page": 27,
+ "version": 1,
+ "trace": "_traces/65ba5e302d8c555c-p27.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1580, 2000],
+  "mm": [341.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "27", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 1.5, 341.3, 430.1],
+ "outlines": {
+  "line": {"rings": 361, "straight": {"n": 5072, "mm": 8261.4}, "curved": {"n": 1017, "mm": 1298.0}},
+  "text": {"rings": 81, "straight": {"n": 604, "mm": 776.1}, "curved": {"n": 111, "mm": 152.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [98.2, 264.9, 106.0, 268.5], "text": "L£fT"},
+   {"mm": [337.5, 224.3, 342.0, 232.0], "text": "rl"},
+   {"mm": [87.9, 215.0, 97.6, 218.6], "text": "III'IJT"},
+   {"mm": [309.0, 217.2, 315.6, 221.8], "text": "CUT"},
+   {"mm": [337.5, 216.5, 340.9, 220.6], "text": "II"},
+   {"mm": [307.2, 213.1, 318.5, 217.7], "text": "BOOST"},
+   {"mm": [95.6, 166.2, 106.2, 170.1], "text": "RIGHT"},
+   {"mm": [289.5, 60.0, 310.9, 69.1], "text": "ps"},
+   {"mm": [277.9, 48.4, 300.1, 60.1], "text": "BS"},
+   {"mm": [255.0, 25.7, 274.0, 32.9], "text": "tp"},
+   {"mm": [247.6, 18.4, 269.0, 25.5], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 341 × 432 mm, 1580 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–341 mm across, 2–430 mm up",
+  "- **Outlines:** line 361 rings, 5,072 straight (8,261 mm) / 1,017 curved (1,298 mm); text 81 rings, 604 straight (776 mm) / 111 curved (152 mm)",
+  "- **Words (OCR):** 11 in 11 lines: L£fT · rl · III'IJT · CUT · II · BOOST · RIGHT · ps · BS · tp · ht"
+ ]
+}
