@@ -13,6 +13,168 @@ Ward-Beck Systems M462C, 1985|18. Wiki page: [M462C on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 45 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1985 - M462C - M462C562C - P003 - 1-1.jpg](MANUALS/1985%20-%20M462C%20-%20M462C562C%20-%20P003%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | Unity +/-0.5 dB |
+| **Frequency response** | +/-0.5 dB from Hz kHz with the equalizer inserted and the cut/hoost controls the detent position. |
+| **Noise** | dBm absolute equalizer &quot;out&quot; -82 dBm absolute equalizer inserted and the cut/boose controls the detent position measured over 20 Hz kHz bandwidth. |
+| **Harmonic distortion** | Less than 0.17 front Iz kllz 30 dBi output level Tess Less than 017 kHz +30 dBm output Level less |
+| **Source impedance** | 600 ohms less balanced unbalanced |
+| **Input impedance** | 20,' 000 ohms balanced |
+| **Input level** | ~10 dBm nominal +30 dBu maximum |
+| **Output impedance** | Less than 100 ohms actively balanced |
+| **Load impedance** | 600 ohms greater balanced |
+| **Output level** | -10 dBm nominal +30 dBm maximum |
+| **Channel separation** | Greater than |
+| **Phasing** | Low number the input pair phase with the low number the output pair_ with the equalizing controls the detent pos tion. |
+| **Equalization tracking** | Within 0.5 dB for Level and within 105 for frequency |
+| **Power requirements** | +/-25 volts 125 MA nominal, 225 niA maximuin |
+| **Ambient temperature** | degrees Celsius. |
+
+## Circuit description
+
+From [1985 - M462C - M562C - Stereo Equalizer (2).pdf](MANUALS/1985%20-%20M462C%20-%20M562C%20-%20Stereo%20Equalizer%20(2).pdf) pages 8-13 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+C l~ ul t description d e tell.\&lt; will perl ft ln t o Ih e Left Channel. The right Chft nn el circuitry op erft leS Ina s lm l l llr manner.
+
+The left e eeo o erIn put IIP pears lit pins 1 U 2 of Ih e module connec ~ tor and the right Channel Input Is ft t connector pins 4 (, S. Inputs hie ld connections mey b e mftd e t o pins 3 &quot;nd 6.
+
+U1B converts Ih e left c hft n ne lIn p u l s lg n,, 1 fro nl Il balanced to &quot;n u nb&quot; l e nced mode, &quot;s well as a c lt ng as a buffer tot hoe equll tiz ing circuitry.
+
+The ou tp u l from Ut a 15 coupled t h rough C4 10 b ypess switch SW1A and low fr e q u e n c y cut / boost control R IA. It also leeds the com bl n;n g amplifier U2B.
+
+Amplifiers U2B, U2A and U3A are combining or m i&gt;d ng an,p llf ie rs which t llk e them n l n c h &quot; n n e laud io sl g nll l.. n d IId d Ih e oU lpu l s lrom Ih e equal i zings r ere Vll r lab l e fIlters.
+
+Thee q uali zing e bee ec tete uc e. divides thea u d ios pe c t rum Into uve e b n nd s. The Low frequency cove rl ng frequencies from 30 Hz to ' 00 Hz. These f re qu e n c y compon en l S are m h, e d by U2B.
+
+U2A combines lI udlo com pone n ls overt h e Mid Ire q u e n c y rang &quot;, Irom 400 Hz 10 6.'k Hz. The high frequency portion of Ih e &quot; u d ios p e c lr u mover the range of 1.6 kHz 10 2' kHz Is mixed by U3 A.
+
+UJB forms lin 150 la llon &quot;mp ll fie r, the output of which Is coup led through C I6 10 Insertion switch SWIA.
+
+Low FreQuency EqU lll1z er
+
+The cu t/boo51 control R IA brld ge 5 between the Input and output of
+
+mixIng &quot; m p l lfie r U2B.
+
+The lIrm o f control RIA f.... d 5 II portion o f the &quot; u dlo 519 n,, 1 to a
+
+Slate v llrl&quot;b le filter composed of WIS, U4A lind usa. C I 9 lInd Cl I along with sec tl o nsA and a off r eQu en cy control Rio, determine the
+
+resonant freQuency oft h e ill te r,
+
+CIRCUIT OESCr'llP T ION
+
+The oU lpu t f r-om the fl lt e.. Is fed b&quot;ck Into the mixing amp l l f le &quot; through CS where it Is added or eve u-ee tee lrom Ih e millin signal In propor l1on 10 III millg nl tude and ph ills e.
+
+Tn ls low fl&quot;&quot;e QUenc y fl l te&quot; maybes witched Irom II r e Son llnt Of' pellk - Ing mode to ashe lvI n g type ch a..e c te r-ta ttc. This i s d e lerm in ed Oy s wll c h SW2, which when depressed switches Ih efl tt e rf rom Its r eson&quot;n t condition to a low pass s t&quot; t &quot;.
+
+Mld-F..e Que nc y Equal ize&quot;
+
+Tn e left channel CUI/ooo s t control R2A o rldg&quot;s between the Input iIInd output of mixing amplifier U2A. When t n ls control Is Int he 0 det en t posItion (cen te.. po ln l) no co r..ee tt ce 0 &quot; eQu&quot; l l z lng slg n,, 1 Is fed 10 the filter net wOf'k.
+
+The signal output from thea r m o f f&quot;\2A Is coupled t h r o u g n en 10 the mid ranges l ale variable filler, composed of U6A, U68 and U1A. Tne r e so nan l fr e q u en c y Is determined by C26, C21, C92, C9 3 and these il ing of RS sections A &quot;nd B.
+
+Q switch SW3 A cn &quot;n ge s the filler gain by Inser ling R~6 In lo II feedback p&quot; tn oft he filter. When SW3 15 released a high Q of 4 I&quot; selected and when depressed the lif ter Q equ a l&quot; 2.
+
+The output signal from the fl lt erIs coupled back Into summing amplifier UZA t h rough CS, where It I&quot; propo r t lonl:l l ly added Or sub t rac ted from the main Ch llnn el 5 19 &quot;,, 1. Ad dillon results In II boost conditIon while a cut 15 there s u lt of subtraction.
+
+, High Frequency EQu &lt;'!l lzer
+
+High frequency cu t/boos t control A3A feeds an error slg&quot;a l tot h., high fr eq u e n c y slate v e r-I.. b le fi lle rm&quot;de up o f USA, usa and U9A. These ll ing of cont r o l R6, sections A and 8 &quot; long with C32 and CJ J set In e r-e s ce.. n tor pe.. ldn g conditions to Ih e shelving or high p &quot; &quot; s f l lt e rcondi tion.
+
+The output l rom this filter Is coupled beck to mix In !,,! an lpl lfl er U3A
+
+through C l l, wn ere I t Is either lidded o r subtract ed from th &quot; m,,' n ch &quot;nnet signal.
+
+The left channel output f r'&lt;!m i...s e r t switch SWI..... connects to the SAI4 _109A one weu output 8 mp ' i ' ie r.
+
+The left tl n d right channel output tlm p l i lie rs are ell c h sep &quot;rllt e plug On card assemblies.
+
+The left eha nne l audio output app ell rs atp ins 12 ft 13 0 ' the module edge connector, and the right channel output Is atp ins 15 &amp; 16.
+
+P&quot;''''er SUpply Decoup llng
+
+The -1-/-25 supply vo llage (pin s 21 ft 19 oft h e module edge con n_ ec tor) feed t h r'&lt;!u g h polarity rev er sIng diodes crn and CR 2 to these r ies decoup lers 0 1 through 04.
+
+The nomlntll -1-/_22 volts from this d ecoup l er feeds the SAI 4_ 109..... ou tpu l IImp l l f l e r s. to limit overall power dissipation under eve r-Iced conditions II current liml lin g controls ig na l Is fed back from the 5A 14_ 109..... ampl U lers 10 the bases of 0 1 lind 0 2. When e n o lle rl oa d condition occurs the cur r en l limit control slgntl ls s h u IS down o r tu......s off the dee::oup ler s, thereby I lm l l l n g power dl s sip all on Int he module.
+
+The -1-/-16 volts u p ply v&quot;l lag e r-ecub-ed b y the operational &quot; '&quot;p ll f ler&quot; of thee Qua l l ztl t lon circuitry Is dee::ou pled and filtered by OS t h rough Q6. These vol i llg e s are t e p p e doff the &quot; /-22 volts u p ply lines.
+
+The powers u p ply Common r e lurn...ppe llr slit pin 20 01 the module conn eet o rand the eh e s s ls fr eme eonn ee t s l o, p l n 22,
+
+WAR O - BECKS YB TEM S LT c.H III: I ' ' ~L.
+
+FnEClUEUCY RESPONSE CHAFIACTER I ST I CS
+
+**~1 46 2C STEREO EOUALI ZER '·'OOULE**
+
+.,5- - In ? -7&lt;;
+
++0 - f - -\; +0 - f
+
+OB - -o&lt;E I--
+
+1--1l
+
+1--1- ~~
+
+&quot;,,'-;- &quot;H,,0&lt; 2(tJ(l 4l1.
+
+&quot; I GII FREOUEt lCY SECT ION
+
++/ _ 15 dB.
+
+**BOOST/ CUT'**
+
+FIl EOll ENCV, 1.6 kHz 10 24 kHz
+
+Q.. 2.
+
+WAR O· B E C I&lt; S YBT EMS LT C.
+
+FR EQUEIlCY RESPOtISE CHARACTER 1ST I CS
+
+M'62C STEREO EOUAl. ' ZEn MODULE
+
+2Oi,,1Ott
+
+~tlO FREOUENCY SEC T1011 a c
+
+eoost/ cut _/. l !&gt; dB.
+
+FREOUEtl CY: 400 Hz 10 6.4 10;111.
+
+o &quot; 2 or 4.
+
+WAR C - BECKS VBTE M S LTC.
+
+FREQUEtj CY RESPOUSE CHARACTER 1ST ' CS
+
+I&gt;1462C STEREO EOUAL. l ER MOOULE
+
+-s \ v -&quot; All &gt;
+
+&quot;0&quot; ''''' I~ &quot;&quot;....
+
+**LOW FREOUENCY SECT ION**
+
+BOOST/ CUT: +/_.5 ee.
+
+FREOUENCY, 25 Hz 10.00 Hz Q. 2.
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._

@@ -1,0 +1,188 @@
+{
+ "module": "M462C",
+ "title": "M462C STEREO EQUALIZER MODULE",
+ "source": {
+  "file": "MANUALS/1985 - M462C - M462C562C - P003 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.9,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "Unity +/-0.5 dB",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/-0.5 dB from Hz kHz with the equalizer inserted and the cut/hoost controls the detent position.",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "dBm absolute equalizer \"out\" -82 dBm absolute equalizer inserted and the cut/boose controls the detent position measured over 20 Hz kHz bandwidth.",
+   "quantities": [
+    {
+     "value": -82,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.17 front Iz kllz 30 dBi output level Tess Less than 017 kHz +30 dBm output Level less",
+   "quantities": [
+    {
+     "value": 17,
+     "unit": "kHz"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms less balanced unbalanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "20,' 000 ohms balanced",
+   "quantities": [
+    {
+     "value": 0,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "~10 dBm nominal +30 dBu maximum",
+   "quantities": [
+    {
+     "value": 10,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBu"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than 100 ohms actively balanced",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohms greater balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "-10 dBm nominal +30 dBm maximum",
+   "quantities": [
+    {
+     "value": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Channel separation",
+   "key": "channel_separation",
+   "text": "Greater than"
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Low number the input pair phase with the low number the output pair_ with the equalizing controls the detent pos tion."
+  },
+  {
+   "name": "Equalization tracking",
+   "key": "equalization_tracking",
+   "text": "Within 0.5 dB for Level and within 105 for frequency",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+/-25 volts 125 MA nominal, 225 niA maximuin",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts",
+     "tolerance": true
+    },
+    {
+     "value": 125,
+     "unit": "MA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "degrees Celsius."
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1985 - M462C - M462C562C - P004 - 1-2.jpg",
+   "page": 1
+  }
+ ]
+}
