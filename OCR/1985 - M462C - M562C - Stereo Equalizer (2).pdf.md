@@ -1,5 +1,5 @@
 # 1985 - M462C - M562C - Stereo Equalizer (2).pdf
-Wiki page: [M462C](../../../../PAGES/M462C.md)
+Wiki page: [M462C](../)
 
 
 - **Year:** 1985 (found in this file: "I ssu e Oc tobe r 1985")

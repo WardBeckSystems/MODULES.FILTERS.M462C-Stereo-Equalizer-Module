@@ -1,5 +1,5 @@
 # 1985 - M462C - 462-04-008 - STEREO EQUALIZER MODULE MODULE LAYOUT.jpg
-Wiki page: [M462C](../../../../PAGES/M462C.md)
+Wiki page: [M462C](../)
 
 
 - **Year:** 1985 (module estimate (manual_issue))
