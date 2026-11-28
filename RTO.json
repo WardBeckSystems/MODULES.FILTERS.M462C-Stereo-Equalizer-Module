@@ -7,111 +7,79 @@
  "verified": null,
  "derived": false,
  "variant_of": null,
- "pins": [
-  {
-   "pin": "1",
-   "signal": "EQ IN LEFT",
-   "kind": "in",
-   "pair": "A1",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M462C/M462C.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "2",
-   "signal": "EQ IN LEFT",
-   "kind": "in",
-   "pair": "A1",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M462C/M462C.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "4",
-   "signal": "EQ IN RIGHT",
-   "kind": "in",
-   "pair": "A3",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M462C/M462C.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "5",
-   "signal": "EQ IN RIGHT",
-   "kind": "in",
-   "pair": "A3",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M462C/M462C.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "12",
-   "signal": "EQ OUT LEFT",
-   "kind": "out",
-   "pair": "A2",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M462C/M462C.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "13",
-   "signal": "EQ OUT LEFT",
-   "kind": "out",
-   "pair": "A2",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M462C/M462C.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "15",
-   "signal": "EQ OUT RIGHT",
-   "kind": "out",
-   "pair": "A4",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M462C/M462C.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "16",
-   "signal": "EQ OUT RIGHT",
-   "kind": "out",
-   "pair": "A4",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M462C/M462C.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "22",
-   "signal": "POWER SUPPLY COMMON RETURN",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M462C562C - P010 - 4-3.jpg",
-   "page": 1
-  }
- ],
  "straps": [],
  "power": [],
  "sources": [
   "Engineering/RTO-144/M462C/M462C.rto144.json",
   "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M462C562C - P010 - 4-3.jpg"
- ]
+ ],
+ "pins": [
+  {
+   "connector": "",
+   "pin": "1",
+   "signal": "EQ IN LEFT",
+   "kind": "in",
+   "port": "A1",
+   "polarity": "+"
+  },
+  {
+   "connector": "",
+   "pin": "2",
+   "signal": "EQ IN LEFT",
+   "kind": "in",
+   "port": "A1",
+   "polarity": "-"
+  },
+  {
+   "connector": "",
+   "pin": "4",
+   "signal": "EQ IN Right",
+   "kind": "in",
+   "port": "A3",
+   "polarity": "+"
+  },
+  {
+   "connector": "",
+   "pin": "5",
+   "signal": "EQ IN Right",
+   "kind": "in",
+   "port": "A3",
+   "polarity": "-"
+  },
+  {
+   "connector": "",
+   "pin": "12",
+   "signal": "EQ OUT LEFT",
+   "kind": "out",
+   "port": "A2",
+   "polarity": "+"
+  },
+  {
+   "connector": "",
+   "pin": "13",
+   "signal": "EQ OUT LEFT",
+   "kind": "out",
+   "port": "A2",
+   "polarity": "-"
+  },
+  {
+   "connector": "",
+   "pin": "15",
+   "signal": "EQ OUT Right",
+   "kind": "out",
+   "port": "A4",
+   "polarity": "+"
+  },
+  {
+   "connector": "",
+   "pin": "16",
+   "signal": "EQ OUT Right",
+   "kind": "out",
+   "port": "A4",
+   "polarity": "-"
+  }
+ ],
+ "built_from": {
+  "synthesized": "tools/symbol_synth.py in WBSps.ca from Engineering/RTO-144/M462C/M462C.rto144.json"
+ }
 }
